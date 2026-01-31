@@ -1,6 +1,6 @@
 # **📝Resume Analyzer Tool**
 
-## **LIVE URL:** https://resume-analyser-aitool.streamlit.app/
+### **LIVE URL:** https://resume-analyser-aitool.streamlit.app/
 
 ### **📌 Project Overview**
 
@@ -97,5 +97,6 @@ Skill extraction using NLP models
 ### **🖥️ Author**
 
 Hasini
+
 
 
