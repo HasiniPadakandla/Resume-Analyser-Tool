@@ -1,10 +1,12 @@
-Resume Analyzer tool
+# **📝Resume Analyzer Tool**
 
-📌 Project Overview
+### **📌 Project Overview**
 
 An AI-powered application that analyzes a resume against a job description and computes a resume–job match score using NLP and machine learning techniques. The project is cloud-deployed for easy access and demonstrates real-world AI engineering practices.
 
-🚀 Features
+---
+
+### **🚀 Features**
 
 Upload resume (PDF)
 
@@ -18,7 +20,9 @@ Display match strength (Low / Moderate / Strong)
 
 Public cloud deployment using Streamlit
 
-🧠 How It Works
+---
+
+### **🧠 How It Works**
 
 Resume PDF + Job Description
         ↓
@@ -30,7 +34,9 @@ Cosine Similarity
         ↓
 Match Score (%)
 
-🛠️ Tech Stack
+---
+
+### **🛠️ Tech Stack**
 
 Python
 
@@ -42,7 +48,9 @@ Streamlit (UI & deployment)
 
 pdfplumber (PDF parsing)
 
-📁 Project Structure
+---
+
+### **📁 Project Structure**
 
 resume-analyzer-ai/
 ├── backend/
@@ -54,7 +62,10 @@ resume-analyzer-ai/
 ├── requirements.txt
 └── README.md
 
-☁️ Deployment
+
+---
+
+### **☁️ Deployment**
 
 Deployed on Streamlit Cloud
 
@@ -62,7 +73,9 @@ Cloud version focuses on resume–job match scoring
 
 LLM-based feedback is implemented locally (not deployed due to resource constraints)
 
-🎯 Skills Demonstrated
+---
+
+### **🎯 Skills Demonstrated**
 
 NLP
 
@@ -76,10 +89,18 @@ Cloud deployment
 
 Engineering trade-offs (local vs cloud AI)
 
-🔮 Future Improvements
+---
+
+### **🔮 Future Improvements**
 
 Semantic matching using embeddings
 
 Cloud-based LLM feedback
 
 Skill extraction using NLP models
+
+---
+
+### **🖥️ Author**
+
+Hasini
