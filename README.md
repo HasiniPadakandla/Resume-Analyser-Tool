@@ -52,16 +52,7 @@ pdfplumber (PDF parsing)
 
 ### **📁 Project Structure**
 
-resume-analyzer-ai/
-├── backend/
-│   ├── resume_parser.py
-│   ├── jd_parser.py
-│   └── skill_matcher.py
-├── frontend/
-│   └── app.py
-├── requirements.txt
-└── README.md
-
+<img width="179" height="198" alt="image" src="https://github.com/user-attachments/assets/d526b122-c582-4948-bafe-b2914dc5b668" />
 
 ---
 
@@ -104,3 +95,4 @@ Skill extraction using NLP models
 ### **🖥️ Author**
 
 Hasini
+
